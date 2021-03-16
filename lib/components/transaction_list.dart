@@ -19,7 +19,7 @@ class TransactionList extends StatelessWidget {
                   height: 20,
                 ),
                 Text(
-                  "Nenhuma tranzação",
+                  "Nenhuma transação",
                   style: Theme.of(context).textTheme.headline6,
                 ),
                 SizedBox(
